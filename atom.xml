@@ -47,11 +47,11 @@
   </entry>
   
   <entry>
-    <title>Hello World</title>
+    <title>hello world</title>
     <link href="http://yoursite.com/2020/07/16/hello-world/"/>
     <id>http://yoursite.com/2020/07/16/hello-world/</id>
-    <published>2020-07-16T08:56:50.615Z</published>
-    <updated>2020-07-16T08:56:50.615Z</updated>
+    <published>2020-07-16T10:47:51.000Z</published>
+    <updated>2020-07-17T07:04:12.212Z</updated>
     
     <summary type="html">
     
@@ -59,13 +59,16 @@
       
         
         
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+          &lt;p&gt;&lt;strong&gt;在命令的前面加上npx。&lt;/strong&gt;&lt;/p&gt;
+
         
       
     
     </summary>
     
     
+    
+      <category term="测试" scheme="http://yoursite.com/tags/%E6%B5%8B%E8%AF%95/"/>
     
   </entry>
   

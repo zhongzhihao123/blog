@@ -1,46 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>zzhblog</title>
+  <title>钟志豪のblog</title>
   
   
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-07-17T07:04:12.212Z</updated>
+  <updated>2020-07-17T06:04:51.120Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>钟志豪のblog</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>hello world</title>
-    <link href="http://yoursite.com/2020/07/16/hello-world/"/>
-    <id>http://yoursite.com/2020/07/16/hello-world/</id>
-    <published>2020-07-16T10:47:51.000Z</published>
-    <updated>2020-07-17T07:04:12.212Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;在命令的前面加上npx。&lt;/strong&gt;&lt;/p&gt;
-
-        
-      
-    
-    </summary>
-    
-    
-    
-      <category term="测试" scheme="http://yoursite.com/tags/%E6%B5%8B%E8%AF%95/"/>
-    
-  </entry>
   
   <entry>
     <title>first-blog</title>
@@ -61,6 +35,32 @@
 &lt;li&gt;cd blog&lt;/li&gt;
 &lt;li&gt;npm install&lt;/li&gt;
 &lt;li&gt;npx hexo
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="测试" scheme="http://yoursite.com/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hello world</title>
+    <link href="http://yoursite.com/2020/07/16/hello-world/"/>
+    <id>http://yoursite.com/2020/07/16/hello-world/</id>
+    <published>2020-07-16T10:47:51.000Z</published>
+    <updated>2020-07-17T07:04:12.212Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;在命令的前面加上npx。&lt;/strong&gt;&lt;/p&gt;
+
         
       
     

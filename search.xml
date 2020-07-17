@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>hello world</title>
-      <link href="/2020/07/16/hello-world/"/>
-      <url>/2020/07/16/hello-world/</url>
+      <title>first-blog</title>
+      <link href="/2020/07/16/first-blog/"/>
+      <url>/2020/07/16/first-blog/</url>
       
-        <content type="html"><![CDATA[<p><strong>在命令的前面加上npx。</strong></p>]]></content>
+        <content type="html"><![CDATA[<p><strong>在命令的前面加上npx。</strong></p><ul><li>npx hexo init blog</li><li>cd blog</li><li>npm install</li><li>npx hexo server</li><li>本地打开<a href="http://localhost:4000/就可以看到啦" target="_blank" rel="noopener">http://localhost:4000/就可以看到啦</a></li></ul>]]></content>
       
       
       
@@ -23,11 +23,11 @@
     
     
     <entry>
-      <title>first-blog</title>
-      <link href="/2020/07/16/first-blog/"/>
-      <url>/2020/07/16/first-blog/</url>
+      <title>hello world</title>
+      <link href="/2020/07/16/hello-world/"/>
+      <url>/2020/07/16/hello-world/</url>
       
-        <content type="html"><![CDATA[<p><strong>在命令的前面加上npx。</strong></p><ul><li>npx hexo init blog</li><li>cd blog</li><li>npm install</li><li>npx hexo server</li><li>本地打开<a href="http://localhost:4000/就可以看到啦" target="_blank" rel="noopener">http://localhost:4000/就可以看到啦</a></li></ul>]]></content>
+        <content type="html"><![CDATA[<p><strong>在命令的前面加上npx。</strong></p>]]></content>
       
       
       

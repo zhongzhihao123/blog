@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>钟志豪のblog</title>
   
-  
+  <subtitle>钟志豪のblog</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-07-17T06:04:51.120Z</updated>
+  <updated>2020-07-20T05:48:47.979Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>first-blog</title>
-    <link href="http://yoursite.com/2020/07/16/first-blog/"/>
-    <id>http://yoursite.com/2020/07/16/first-blog/</id>
-    <published>2020-07-16T10:47:51.000Z</published>
-    <updated>2020-07-17T06:04:51.120Z</updated>
+    <title>ES6</title>
+    <link href="http://yoursite.com/2020/07/20/es6/"/>
+    <id>http://yoursite.com/2020/07/20/es6/</id>
+    <published>2020-07-20T05:43:53.000Z</published>
+    <updated>2020-07-20T05:48:47.979Z</updated>
     
     <summary type="html">
     
@@ -29,12 +29,7 @@
       
         
         
-          &lt;p&gt;&lt;strong&gt;在命令的前面加上npx。&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;npx hexo init blog&lt;/li&gt;
-&lt;li&gt;cd blog&lt;/li&gt;
-&lt;li&gt;npm install&lt;/li&gt;
-&lt;li&gt;npx hexo
+          &lt;h1 id=&quot;ES6&quot;&gt;&lt;a href=&quot;#ES6&quot; class=&quot;headerlink&quot; title=&quot;ES6&quot;&gt;&lt;/a&gt;ES6&lt;/h1&gt;&lt;h2 id=&quot;let（用来声明变量）&quot;&gt;&lt;a href=&quot;#let（用来声明变量）&quot; class=&quot;headerlink&quot;
         
       
     
@@ -42,16 +37,16 @@
     
     
     
-      <category term="测试" scheme="http://yoursite.com/tags/%E6%B5%8B%E8%AF%95/"/>
+      <category term="JS 前端" scheme="http://yoursite.com/tags/JS-%E5%89%8D%E7%AB%AF/"/>
     
   </entry>
   
   <entry>
-    <title>hello world</title>
-    <link href="http://yoursite.com/2020/07/16/hello-world/"/>
-    <id>http://yoursite.com/2020/07/16/hello-world/</id>
-    <published>2020-07-16T10:47:51.000Z</published>
-    <updated>2020-07-17T07:04:12.212Z</updated>
+    <title>html5和css3</title>
+    <link href="http://yoursite.com/2020/07/20/h5-he-css3/"/>
+    <id>http://yoursite.com/2020/07/20/h5-he-css3/</id>
+    <published>2020-07-20T05:43:53.000Z</published>
+    <updated>2020-07-20T05:47:41.671Z</updated>
     
     <summary type="html">
     
@@ -59,8 +54,7 @@
       
         
         
-          &lt;p&gt;&lt;strong&gt;在命令的前面加上npx。&lt;/strong&gt;&lt;/p&gt;
-
+          &lt;h3 id=&quot;HTML5-第一天&quot;&gt;&lt;a href=&quot;#HTML5-第一天&quot; class=&quot;headerlink&quot; title=&quot;HTML5  第一天&quot;&gt;&lt;/a&gt;HTML5  第一天&lt;/h3&gt;&lt;h6 id=&quot;一、什么是-HTML5&quot;&gt;&lt;a
         
       
     
@@ -68,7 +62,225 @@
     
     
     
-      <category term="测试" scheme="http://yoursite.com/tags/%E6%B5%8B%E8%AF%95/"/>
+      <category term="html css 前端" scheme="http://yoursite.com/tags/html-css-%E5%89%8D%E7%AB%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>flex布局</title>
+    <link href="http://yoursite.com/2020/07/20/flex-bu-ju/"/>
+    <id>http://yoursite.com/2020/07/20/flex-bu-ju/</id>
+    <published>2020-07-20T05:43:53.000Z</published>
+    <updated>2020-07-20T05:45:04.255Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;移动web开发——flex布局&quot;&gt;&lt;a href=&quot;#移动web开发——flex布局&quot; class=&quot;headerlink&quot; title=&quot;移动web开发——flex布局&quot;&gt;&lt;/a&gt;移动web开发——flex布局&lt;/h1&gt;&lt;h2 id=&quot;学习目标&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="flex 前端" scheme="http://yoursite.com/tags/flex-%E5%89%8D%E7%AB%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>git的用法</title>
+    <link href="http://yoursite.com/2020/07/20/git/"/>
+    <id>http://yoursite.com/2020/07/20/git/</id>
+    <published>2020-07-20T05:43:53.000Z</published>
+    <updated>2020-07-20T05:51:01.293Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;Git&quot;&gt;&lt;a href=&quot;#Git&quot; class=&quot;headerlink&quot; title=&quot;Git&quot;&gt;&lt;/a&gt;Git&lt;/h1&gt;&lt;p&gt;1 git是一个版本控制管理系统&lt;/p&gt;
+&lt;h2 id=&quot;git的下载和安装&quot;&gt;&lt;a href=&quot;#git的下载和安装&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="git 工具" scheme="http://yoursite.com/tags/git-%E5%B7%A5%E5%85%B7/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>vue框架</title>
+    <link href="http://yoursite.com/2020/07/20/vue/"/>
+    <id>http://yoursite.com/2020/07/20/vue/</id>
+    <published>2020-07-20T05:43:53.000Z</published>
+    <updated>2020-07-20T05:50:06.906Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;Vue-js-Day1&quot;&gt;&lt;a href=&quot;#Vue-js-Day1&quot; class=&quot;headerlink&quot; title=&quot;Vue.js - Day1&quot;&gt;&lt;/a&gt;Vue.js - Day1&lt;/h1&gt;&lt;h2 id=&quot;课程介绍&quot;&gt;&lt;a href=&quot;#课程介绍&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="vue 前端 框架" scheme="http://yoursite.com/tags/vue-%E5%89%8D%E7%AB%AF-%E6%A1%86%E6%9E%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>javascript高级</title>
+    <link href="http://yoursite.com/2020/07/20/javascript-gao-ji/"/>
+    <id>http://yoursite.com/2020/07/20/javascript-gao-ji/</id>
+    <published>2020-07-20T05:41:58.000Z</published>
+    <updated>2020-07-20T05:42:55.192Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;hr&gt;
+&lt;p&gt;学习目标:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;理解面向对象开发思想&lt;/li&gt;
+&lt;li&gt;掌握 JavaScript 面向对象开发相关模式&lt;/li&gt;
+&lt;li&gt;掌握在 JavaScript 中使用正则表达式&lt;/li&gt;
+&lt;li&gt;typora-copy-images-to
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="javascript  前端" scheme="http://yoursite.com/tags/javascript-%E5%89%8D%E7%AB%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>webAPI</title>
+    <link href="http://yoursite.com/2020/07/20/webapi/"/>
+    <id>http://yoursite.com/2020/07/20/webapi/</id>
+    <published>2020-07-20T05:40:26.000Z</published>
+    <updated>2020-07-20T05:44:05.381Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;hr&gt;
+&lt;p&gt;学习目标:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;掌握API和Web
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="javascript  前端" scheme="http://yoursite.com/tags/javascript-%E5%89%8D%E7%AB%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>js基础</title>
+    <link href="http://yoursite.com/2020/07/20/js-ji-chu/"/>
+    <id>http://yoursite.com/2020/07/20/js-ji-chu/</id>
+    <published>2020-07-20T05:37:24.000Z</published>
+    <updated>2020-07-20T05:39:45.309Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;hr&gt;
+&lt;p&gt;学习目标:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;掌握编程的基本思维&lt;/li&gt;
+&lt;li&gt;掌握编程的基本语法&lt;br&gt;typora-copy-images-to: media&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h1 id=&quot;JavaScript基础&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="javascript  前端" scheme="http://yoursite.com/tags/javascript-%E5%89%8D%E7%AB%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Html</title>
+    <link href="http://yoursite.com/2020/07/16/html/"/>
+    <id>http://yoursite.com/2020/07/16/html/</id>
+    <published>2020-07-16T10:47:51.000Z</published>
+    <updated>2020-07-20T05:38:19.519Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;hr&gt;
+&lt;p&gt;
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="html 前端" scheme="http://yoursite.com/tags/html-%E5%89%8D%E7%AB%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>css基础</title>
+    <link href="http://yoursite.com/2020/07/16/css/"/>
+    <id>http://yoursite.com/2020/07/16/css/</id>
+    <published>2020-07-16T10:47:51.000Z</published>
+    <updated>2020-07-20T05:38:34.174Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;7#
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="css 前端" scheme="http://yoursite.com/tags/css-%E5%89%8D%E7%AB%AF/"/>
     
   </entry>
   

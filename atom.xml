@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>钟志豪のblog</title>
   
-  <subtitle>钟志豪のblog</subtitle>
+  <subtitle>🐬 学习、记录、分享</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-07-20T05:57:01.044Z</updated>
+  <updated>2020-07-20T08:17:45.702Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,23 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>测试</title>
+    <link href="http://yoursite.com/2020/07/20/ce-shi/"/>
+    <id>http://yoursite.com/2020/07/20/ce-shi/</id>
+    <published>2020-07-20T08:17:07.000Z</published>
+    <updated>2020-07-20T08:17:45.702Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+      <category term="测试" scheme="http://yoursite.com/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
   
   <entry>
     <title>ES6</title>
@@ -48,7 +65,7 @@
     <link href="http://yoursite.com/2020/07/20/flex-bu-ju/"/>
     <id>http://yoursite.com/2020/07/20/flex-bu-ju/</id>
     <published>2020-07-20T05:43:53.000Z</published>
-    <updated>2020-07-20T05:56:07.109Z</updated>
+    <updated>2020-07-20T07:49:14.849Z</updated>
     
     <summary type="html">
     
@@ -194,7 +211,7 @@
     <link href="http://yoursite.com/2020/07/20/webapi/"/>
     <id>http://yoursite.com/2020/07/20/webapi/</id>
     <published>2020-07-20T05:40:26.000Z</published>
-    <updated>2020-07-20T06:46:28.178Z</updated>
+    <updated>2020-07-20T07:47:33.705Z</updated>
     
     <summary type="html">
     
@@ -258,7 +275,7 @@
     <link href="http://yoursite.com/2020/07/16/html/"/>
     <id>http://yoursite.com/2020/07/16/html/</id>
     <published>2020-07-16T10:47:51.000Z</published>
-    <updated>2020-07-20T05:56:22.237Z</updated>
+    <updated>2020-07-20T07:49:25.104Z</updated>
     
     <summary type="html">
     

@@ -88,34 +88,6 @@
   </entry>
   
   <entry>
-    <title>git的用法</title>
-    <link href="http://yoursite.com/2020/07/20/git/"/>
-    <id>http://yoursite.com/2020/07/20/git/</id>
-    <published>2020-07-20T05:43:53.000Z</published>
-    <updated>2020-07-20T05:57:12.244Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h1 id=&quot;Git&quot;&gt;&lt;a href=&quot;#Git&quot; class=&quot;headerlink&quot; title=&quot;Git&quot;&gt;&lt;/a&gt;Git&lt;/h1&gt;&lt;p&gt;1 git是一个版本控制管理系统&lt;/p&gt;
-&lt;h2 id=&quot;git的下载和安装&quot;&gt;&lt;a href=&quot;#git的下载和安装&quot;
-        
-      
-    
-    </summary>
-    
-    
-    
-      <category term="git" scheme="http://yoursite.com/tags/git/"/>
-    
-      <category term="工具" scheme="http://yoursite.com/tags/%E5%B7%A5%E5%85%B7/"/>
-    
-  </entry>
-  
-  <entry>
     <title>html5和css3</title>
     <link href="http://yoursite.com/2020/07/20/h5-he-css3/"/>
     <id>http://yoursite.com/2020/07/20/h5-he-css3/</id>
@@ -141,6 +113,34 @@
       <category term="html" scheme="http://yoursite.com/tags/html/"/>
     
       <category term="css" scheme="http://yoursite.com/tags/css/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>git的用法</title>
+    <link href="http://yoursite.com/2020/07/20/git/"/>
+    <id>http://yoursite.com/2020/07/20/git/</id>
+    <published>2020-07-20T05:43:53.000Z</published>
+    <updated>2020-07-20T05:57:12.244Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;Git&quot;&gt;&lt;a href=&quot;#Git&quot; class=&quot;headerlink&quot; title=&quot;Git&quot;&gt;&lt;/a&gt;Git&lt;/h1&gt;&lt;p&gt;1 git是一个版本控制管理系统&lt;/p&gt;
+&lt;h2 id=&quot;git的下载和安装&quot;&gt;&lt;a href=&quot;#git的下载和安装&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="git" scheme="http://yoursite.com/tags/git/"/>
+    
+      <category term="工具" scheme="http://yoursite.com/tags/%E5%B7%A5%E5%85%B7/"/>
     
   </entry>
   
@@ -303,7 +303,7 @@
     <link href="http://yoursite.com/2020/07/16/css/"/>
     <id>http://yoursite.com/2020/07/16/css/</id>
     <published>2020-07-16T10:47:51.000Z</published>
-    <updated>2020-07-20T05:56:40.653Z</updated>
+    <updated>2020-07-20T08:19:22.974Z</updated>
     
     <summary type="html">
     

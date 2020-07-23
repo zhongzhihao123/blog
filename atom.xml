@@ -34,33 +34,6 @@
   </entry>
   
   <entry>
-    <title>flex布局</title>
-    <link href="http://yoursite.com/2020/07/20/flex-bu-ju/"/>
-    <id>http://yoursite.com/2020/07/20/flex-bu-ju/</id>
-    <published>2020-07-20T05:43:53.000Z</published>
-    <updated>2020-07-20T08:29:49.526Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h1 id=&quot;移动web开发——flex布局&quot;&gt;&lt;a href=&quot;#移动web开发——flex布局&quot; class=&quot;headerlink&quot; title=&quot;移动web开发——flex布局&quot;&gt;&lt;/a&gt;移动web开发——flex布局&lt;/h1&gt;&lt;h2 id=&quot;学习目标&quot;&gt;&lt;a
-        
-      
-    
-    </summary>
-    
-    
-    
-      <category term="flex" scheme="http://yoursite.com/tags/flex/"/>
-    
-      <category term="前端" scheme="http://yoursite.com/tags/%E5%89%8D%E7%AB%AF/"/>
-    
-  </entry>
-  
-  <entry>
     <title>ES6</title>
     <link href="http://yoursite.com/2020/07/20/es6/"/>
     <id>http://yoursite.com/2020/07/20/es6/</id>
@@ -81,9 +54,9 @@
     
     
     
-      <category term="前端" scheme="http://yoursite.com/tags/%E5%89%8D%E7%AB%AF/"/>
-    
       <category term="JS" scheme="http://yoursite.com/tags/JS/"/>
+    
+      <category term="前端" scheme="http://yoursite.com/tags/%E5%89%8D%E7%AB%AF/"/>
     
   </entry>
   
@@ -112,6 +85,33 @@
       <category term="git" scheme="http://yoursite.com/tags/git/"/>
     
       <category term="工具" scheme="http://yoursite.com/tags/%E5%B7%A5%E5%85%B7/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>flex布局</title>
+    <link href="http://yoursite.com/2020/07/20/flex-bu-ju/"/>
+    <id>http://yoursite.com/2020/07/20/flex-bu-ju/</id>
+    <published>2020-07-20T05:43:53.000Z</published>
+    <updated>2020-07-20T08:29:49.526Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;移动web开发——flex布局&quot;&gt;&lt;a href=&quot;#移动web开发——flex布局&quot; class=&quot;headerlink&quot; title=&quot;移动web开发——flex布局&quot;&gt;&lt;/a&gt;移动web开发——flex布局&lt;/h1&gt;&lt;h2 id=&quot;学习目标&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="前端" scheme="http://yoursite.com/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+      <category term="flex" scheme="http://yoursite.com/tags/flex/"/>
     
   </entry>
   

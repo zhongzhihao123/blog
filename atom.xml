@@ -34,33 +34,6 @@
   </entry>
   
   <entry>
-    <title>ES6</title>
-    <link href="http://yoursite.com/2020/07/20/es6/"/>
-    <id>http://yoursite.com/2020/07/20/es6/</id>
-    <published>2020-07-20T05:43:53.000Z</published>
-    <updated>2020-07-20T08:29:16.430Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h1 id=&quot;ES6&quot;&gt;&lt;a href=&quot;#ES6&quot; class=&quot;headerlink&quot; title=&quot;ES6&quot;&gt;&lt;/a&gt;ES6&lt;/h1&gt;&lt;h2 id=&quot;let（用来声明变量）&quot;&gt;&lt;a href=&quot;#let（用来声明变量）&quot; class=&quot;headerlink&quot;
-        
-      
-    
-    </summary>
-    
-    
-    
-      <category term="JS" scheme="http://yoursite.com/tags/JS/"/>
-    
-      <category term="前端" scheme="http://yoursite.com/tags/%E5%89%8D%E7%AB%AF/"/>
-    
-  </entry>
-  
-  <entry>
     <title>flex布局</title>
     <link href="http://yoursite.com/2020/07/20/flex-bu-ju/"/>
     <id>http://yoursite.com/2020/07/20/flex-bu-ju/</id>
@@ -81,9 +54,36 @@
     
     
     
+      <category term="flex" scheme="http://yoursite.com/tags/flex/"/>
+    
       <category term="前端" scheme="http://yoursite.com/tags/%E5%89%8D%E7%AB%AF/"/>
     
-      <category term="flex" scheme="http://yoursite.com/tags/flex/"/>
+  </entry>
+  
+  <entry>
+    <title>ES6</title>
+    <link href="http://yoursite.com/2020/07/20/es6/"/>
+    <id>http://yoursite.com/2020/07/20/es6/</id>
+    <published>2020-07-20T05:43:53.000Z</published>
+    <updated>2020-07-20T08:29:16.430Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;ES6&quot;&gt;&lt;a href=&quot;#ES6&quot; class=&quot;headerlink&quot; title=&quot;ES6&quot;&gt;&lt;/a&gt;ES6&lt;/h1&gt;&lt;h2 id=&quot;let（用来声明变量）&quot;&gt;&lt;a href=&quot;#let（用来声明变量）&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="前端" scheme="http://yoursite.com/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+      <category term="JS" scheme="http://yoursite.com/tags/JS/"/>
     
   </entry>
   
